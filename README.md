@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Kerem 👋
 
-<!--
-**alemdarkerem/alemdarkerem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc graduate in Data Science & AI with a background in Electrical & Electronics Engineering.
+I work on data analysis and machine learning projects, focusing on extracting insights and building reliable models.
 
-Here are some ideas to get you started:
+### Areas of Interest
+- Machine Learning & Deep Learning
+- Computer Vision
+- Data Analysis & Analytics
+- End-to-End ML Pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected Projects
+- 🚗 **Car Damage Detection** – Deep learning with MobileNetV2 (93.48% test accuracy)
+- ⚡ **EV Price Prediction** – End-to-end machine learning pipeline
+- 🎮 **Steam Game Market Analysis** – Business-driven exploratory data analysis
+
+📍 Berlin, Germany  
+🔗 LinkedIn: https://www.linkedin.com/in/keremalemdar99/
