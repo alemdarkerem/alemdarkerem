@@ -7,7 +7,7 @@ I work on data analysis and machine learning projects, focusing on extracting in
 - Machine Learning & Deep Learning
 - Computer Vision
 - Data Analysis & Analytics
-- End-to-End ML Pipelines
+- Model Evaluation & Experimentation
 
 ### Selected Projects
 - 🚗 **Car Damage Detection** – Deep learning with MobileNetV2 (93.48% test accuracy)
